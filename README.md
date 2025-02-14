@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouge3877&label=Profile%20views&color=b40e0e&style=plastic" alt="rouge3877" /> </p>
 
-- 🌱 I’m currently learning **ysyx.oscc.cc, Reverse Engineering**
-
-- 📫 How to reach me **rougelin3877@gmail.com**
+- 🌱 I'm Rouge Li, Goto [My Site](https://rouge3877.github.io/) for more
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
