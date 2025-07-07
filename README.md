@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I'm Rouge Li, Goto [My Site](https://rouge3877.github.io/) for more
 
 <h3 align="left">Connect with me:</h3>
+- rouge_3877`at`outlook.com
+- rougeLin3877`at`gmail.com
 <p align="left">
 </p>
 
