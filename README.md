@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 🤔, I'm Rouge Li</h1>
+<h1 align="center">Hi 🤔, I'm Yuxuan Li</h1>
 <h3 align="center">[0000]=</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouge3877&label=Profile%20views&color=b40e0e&style=plastic" alt="rouge3877" /> </p>
